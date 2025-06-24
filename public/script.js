@@ -137,7 +137,7 @@ const RANGE = 'don_hang!A:BO'; // Mở rộng phạm vi đến cột BO
 const RANGE_CHITIET = 'don_hang_chi_tiet!F:FZ'; // Dải dữ liệu từ sheet 'don_hang_chi_tiet'
 
 
-const SPREADSHEET_ID_TENTRUONG = '1izP6LAv3TlgqLYFFVSYVtRqPpYC43Eul78KheSd5U6s';
+const SPREADSHEET_ID_TENTRUONG = '1gY6a0TWrXeQhLrMT0TLuGpISlU8VUoA6pl_Rq9PQ0xU';
 const RANGE_LOOKUP = 'ten_truong_chon!A:AL'; // Phạm vi chứa dữ liệu mapping
 
 const SPREADSHEET_ID_VATTU = '1FU4f9p6LPUCf_7bMVmS6kWJ7n7kA5_hDSqkUO1sGqdQ';
